@@ -1,0 +1,31 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{A1E8C7F1-2B3C-4D5E-8F9G-1H2I3J4K5L6M}"
+EndProject
+
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{B2E8C7F1-2B3C-4D5E-8F9G-1H2I3J4K5L6M}"
+EndProject
+
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7950}") = "InventoryReconciliation.API", "InventoryReconciliation.API/InventoryReconciliation.API.csproj", "{C3E8C7F1-2B3C-4D5E-8F9G-1H2I3J4K5L6M}"
+EndProject
+
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7950}") = "InventoryReconciliation.Blazor", "InventoryReconciliation.Blazor/InventoryReconciliation.Blazor.csproj", "{D4E8C7F1-2B3C-4D5E-8F9G-1H2I3J4K5L6M}"
+EndProject
+
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7950}") = "InventoryReconciliation.Core", "InventoryReconciliation.Core/InventoryReconciliation.Core.csproj", "{E5E8C7F1-2B3C-4D5E-8F9G-1H2I3J4K5L6M}"
+EndProject
+
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7950}") = "InventoryReconciliation.Data", "InventoryReconciliation.Data/InventoryReconciliation.Data.csproj", "{F6E8C7F1-2B3C-4D5E-8F9G-1H2I3J4K5L6M}"
+EndProject
+
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7950}") = "InventoryReconciliation.Services", "InventoryReconciliation.Services/InventoryReconciliation.Services.csproj", "{G7E8C7F1-2B3C-4D5E-8F9G-1H2I3J4K5L6M}"
+EndProject
+
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7950}") = "InventoryReconciliation.Shared", "InventoryReconciliation.Shared/InventoryReconciliation.Shared.csproj", "{H8E8C7F1-2B3C-4D5E-8F9G-1H2I3J4K5L6M}"
+EndProject
+
+Global
+\tGlobalSection(SolutionConfigurationPlatforms) = preSolution\n\t\tDebug|Any CPU = Debug|Any CPU\n\t\tRelease|Any CPU = Release|Any CPU\n\tEndGlobalSection\n\nEndGlobal
